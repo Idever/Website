@@ -1,0 +1,21 @@
+@import url('/src/css/fonts.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .scrollBar::-webkit-scrollbar {
+        @apply w-0.5 bg-transparent rounded-full
+    }
+    .scrollBar::-webkit-scrollbar-thumb {
+        @apply w-1 bg-gray-400 rounded-full
+    }
+
+    .BscrollBar::-webkit-scrollbar {
+        @apply w-1.5 bg-transparent rounded-sm
+    }
+    .BscrollBar::-webkit-scrollbar-thumb {
+        @apply w-1.5 bg-gray-400 rounded-sm
+    }
+}

@@ -1,0 +1,47 @@
+@font-face {
+    font-family: YB;
+    font-weight: 100;
+    src: url('../../assets/fonts/YKB/YKBHairline.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 200;
+    src: url('../../assets/fonts/YKB/YKBThin.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 300;
+    src: url('../../assets/fonts/YKB/YKBLight.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 400;
+    src: url('../../assets/fonts/YKB/YKBRegular.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 500;
+    src: url('../../assets/fonts/YKB/YKBMedium.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 600;
+    src: url('../../assets/fonts/YKB/YKBBold.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 700;
+    src: url('../../assets/fonts/YKB/YKBExtraBlod.woff2');
+}
+
+@font-face {
+    font-family: YB;
+    font-weight: 800;
+    src: url('../../assets/fonts/YKB/YKBBlack.woff2');
+}
